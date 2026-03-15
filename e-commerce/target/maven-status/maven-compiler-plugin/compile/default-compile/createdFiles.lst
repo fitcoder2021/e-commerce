@@ -1,0 +1,5 @@
+com\e_commerce\studentlogs\controller\StudentController.class
+com\e_commerce\studentlogs\repo\StudentRepository.class
+com\e_commerce\ECommerceApplication.class
+com\e_commerce\studentlogs\model\Student.class
+com\e_commerce\studentlogs\service\StudentService.class
